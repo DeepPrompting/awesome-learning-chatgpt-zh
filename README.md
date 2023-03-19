@@ -114,8 +114,9 @@
 - [Techniques for training large neural networks](https://openai.com/research/techniques-for-training-large-neural-networks)
 - [Introducing Triton: Open-source GPU programming for neural networks](https://openai.com/research/triton)
 - [Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
+- [Scaling Kubernetes to 2,500 nodes](https://openai.com/research/scaling-kubernetes-to-2500-nodes)
 - [Measuring the Algorithmic Efficiency of Neural Networks](https://arxiv.org/ftp/arxiv/papers/2005/2005.04305.pdf)
-
+- [AzureML Large Scale Deep Learning Best Practices](https://github.com/microsoft/azureml-largescale-deeplearning-bestpractices)
 ---
 
 ### 贡献
